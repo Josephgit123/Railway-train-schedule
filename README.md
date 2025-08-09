@@ -17,5 +17,3 @@ It enables **real-time API integrations, automated workflows, and scalable deplo
 - Event-driven automation workflows
 - Cloud deployment with Railway
 - Real-time logging and uptime monitoring
-
-## 📂 Project Structure
